@@ -47,14 +47,14 @@ public class KincsesLadaGUI extends javax.swing.JFrame {
         setBackground(new java.awt.Color(255, 255, 255));
 
         lblAranyKep.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        lblAranyKep.setIcon(new javax.swing.ImageIcon(getClass().getResource("/kincseslada/aranylada.png"))); // NOI18N
+        lblAranyKep.setIcon(new javax.swing.ImageIcon(getClass().getResource("/kepek/aranylada.png"))); // NOI18N
 
         lblKincsesLada.setFont(new java.awt.Font("Viner Hand ITC", 0, 24)); // NOI18N
         lblKincsesLada.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         lblKincsesLada.setText("Kincsesláda");
 
         lblBronzKep.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        lblBronzKep.setIcon(new javax.swing.ImageIcon(getClass().getResource("/kincseslada/bronzlada.png"))); // NOI18N
+        lblBronzKep.setIcon(new javax.swing.ImageIcon(getClass().getResource("/kepek/bronzlada.png"))); // NOI18N
 
         lblAranyAllitas.setFont(new java.awt.Font("Viner Hand ITC", 0, 12)); // NOI18N
         lblAranyAllitas.setText("\"Én rejtem a kincset\"");
@@ -90,7 +90,7 @@ public class KincsesLadaGUI extends javax.swing.JFrame {
         });
 
         lblEzustKep.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        lblEzustKep.setIcon(new javax.swing.ImageIcon(getClass().getResource("/kincseslada/ezustlada.png"))); // NOI18N
+        lblEzustKep.setIcon(new javax.swing.ImageIcon(getClass().getResource("/kepek/ezustlada.png"))); // NOI18N
 
         lblLeiras.setFont(new java.awt.Font("Viner Hand ITC", 0, 12)); // NOI18N
         lblLeiras.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
